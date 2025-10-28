@@ -2,5 +2,5 @@
 print("Hello world")
 
 library(terra)
-Classe=c("me","you","her")
+Classe=c("Me","You","Her")
 
