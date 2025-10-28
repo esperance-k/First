@@ -1,5 +1,6 @@
 #Test_repository
-Hello world!
+print("Hello world")
 
-JSNJBDHGGED
+library(terra)
+Classe=c("me","you","her")
 
